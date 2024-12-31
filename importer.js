@@ -1,7 +1,7 @@
 document.getElementById("template-navbar").innerHTML = `
 <!-- Header -->
 <header class="w3-display-container w3-content w3-center" style="max-width:1500px">
-  <img class="w3-image" src="/static/logo-cftc-csfv.jpg" alt="CFTC Logo" width="900" height="400">
+  <img class="w3-image" src="static/logo-cftc-csfv.jpg" alt="CFTC Logo" width="900" height="400">
 
   <!-- Navbar (placed at the bottom of the header image) -->
   <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle w3-hide-small" style="bottom:-16px">

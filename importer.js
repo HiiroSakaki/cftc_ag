@@ -7,7 +7,6 @@ document.getElementById("template-navbar").innerHTML = `
   <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle w3-hide-small" style="bottom:-16px">
     <a href="index.html" class="w3-bar-item w3-button">Liste des années</a>
     <a href="2024.html" class="w3-bar-item w3-button">2024</a>
-    <a href="2025.html" class="w3-bar-item w3-button">2025</a>
   </div>
 </header>
 `;
@@ -18,7 +17,6 @@ document.getElementById("template-navbar-small").innerHTML = `
     <div class="w3-bar w3-light-grey">
         <a href="index.html" class="w3-bar-item w3-button">Liste des années</a>
         <a href="2024.html" class="w3-bar-item w3-button">2024</a>
-        <a href="2025.html" class="w3-bar-item w3-button">2025</a>
     </div>
 </div>
 `
